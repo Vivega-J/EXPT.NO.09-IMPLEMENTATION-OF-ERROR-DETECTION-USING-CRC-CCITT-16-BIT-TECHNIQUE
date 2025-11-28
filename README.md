@@ -1,6 +1,6 @@
 # EXPT.NO.09-IMPLEMENTATION-OF-ERROR-DETECTION-USING-CRC-CCITT-16-BIT-TECHNIQUE
 # AIM:
-To write a program for error Detection using Cyclic Redundancy Check (CRC-16 bit) technique.
+To write a program for error Detection using Cyclic Redundancy Check (CRC-16 bit) technique
 
 # EQUIPMENTS REQUIRED:
 1.	Personal Computer
